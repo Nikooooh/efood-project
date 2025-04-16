@@ -67,7 +67,7 @@ const Footer = () => {
       <SocialIcons>
         <Icon>
           <a
-            href="https://github.com/Nikooooh"
+            href="https://github.com/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -76,7 +76,7 @@ const Footer = () => {
         </Icon>
         <Icon>
           <a
-            href="https://www.linkedin.com/in/nicolastrevisan/"
+            href="https://www.linkedin.com/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -86,7 +86,7 @@ const Footer = () => {
         <Icon>
           {" "}
           <a
-            href="https://www.youtube.com/@NicolasTrevisann"
+            href="https://www.youtube.com/"
             target="_blank"
             rel="noopener noreferrer"
           >
