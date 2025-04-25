@@ -26,6 +26,7 @@ const Title = styled.h2`
 const ItemContainer = styled.div`
   background-color: #ffebd9;
   padding: 12px;
+  height: 110px;
   width: 289px;
   margin-left: -5px;
   margin-bottom: 14px;
@@ -53,6 +54,8 @@ const ItemName = styled.p`
   font-weight: bold;
   color: #e66767;
   font-family: "Roboto", sans-serif;
+  margin-bottom: 45px;
+  width: full;
 `;
 
 const ItemPrice = styled.p`
@@ -77,8 +80,8 @@ const MessageTitle = styled.p`
 `;
 
 const ItemImage = styled.img`
-  width: 80px;
-  height: 80px;
+  width: 110px;
+  height: 110px;
   margin-right: 12px;
 `;
 
